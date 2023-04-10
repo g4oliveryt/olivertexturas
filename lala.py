@@ -1,3 +1,6 @@
+#Alerta Antes de iniciar instale las librerias necesarias
+#pip install pyautogui
+#pip install pyttsx3
 
 import pyttsx3
 import pyautogui as p
